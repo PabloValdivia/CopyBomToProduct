@@ -33,7 +33,6 @@ External Plug-in Libraries
 targetPlatform/
 targetPlatform/*
 
-*.jar
 *.zip
 
 bin
