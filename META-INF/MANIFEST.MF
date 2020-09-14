@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Cpbomtopr
+Bundle-SymbolicName: one.stabilis.cpbomtopr;singleton:=true
+Bundle-Version: 5.1.0.qualifier
+Automatic-Module-Name: one.stabilis.cpbomtopr
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.adempiere.base;bundle-version="5.1.0",
+ org.adempiere.plugin.utils;bundle-version="5.1.0"
+Bundle-Activator: org.adempiere.plugin.utils.AdempiereActivator
+Bundle-Vendor: StabilisOne
